@@ -3,3 +3,15 @@ beautifulsoup4==4.13.4
 sentence-transformers==5.2.0
 pypdf==6.6.0
 tf-keras==2.20.1
+langchain
+langchain-community
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+langchain-google-genai
+google-genai
+sentence-transformers
+chromadb
+python-dotenv
+beautifulsoup4
+requests
